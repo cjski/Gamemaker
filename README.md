@@ -1,6 +1,6 @@
 # GameMaker
 
-These are the entries for the 2015 and 2016 Sheridan GameMaker competition that I worked on. They are some of the first projects that I worked on related to software design and video game development, and I unfortunately don't have the source code, but they were fun projects and I learned a lot about game design from them. Feel free to download the `.exe` files above and try them out!
+These are the entries for the 2015 and 2016 Sheridan GameMaker competition that I worked on. They are some of the first projects that I worked on related to software design and video game development, and I unfortunately don't have the source code, but they were fun projects and I learned a lot about game design from them. Feel free to download the `.exe` files above and try them out! Jester's Rampage is the full game, and Mansion Buster is an intermediate demo.
 
 ## Jesters Rampage
 
